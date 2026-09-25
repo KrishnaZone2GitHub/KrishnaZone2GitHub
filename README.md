@@ -363,7 +363,7 @@ I'm always interested in connecting with people working on:
 
 ### 📧 Email
 
-**career.kmohan@gmail.com**
+**hello@krishnamohan.net**
 
 ---
 
