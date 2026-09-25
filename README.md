@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishna Mohan
 
-### Solution Architect | Engineering Leader | .NET | Cloud | AI
+### Solution Architect | Engineering Leader | .NET | Cloud | AI Engineering
 
 **17+ years of experience** building software solutions, leading development initiatives, and translating business requirements into scalable technology solutions.
 
