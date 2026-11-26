@@ -1,380 +1,121 @@
-# 👋 Hi, I'm Krishna Mohan
+# Krishna Mohan
 
-### Solution Architect | Engineering Leader | .NET | Cloud | AI Engineering
+### Technology & Engineering Leader | Enterprise & Solution Architecture | Cloud & AI | Digital Transformation
 
-**17+ years of experience** building software solutions, leading development initiatives, and translating business requirements into scalable technology solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krisanmohan/) [![Website](https://img.shields.io/badge/Website-krishnamohan.net-334155?style=for-the-badge)](https://krishnamohan.net) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:career.kmohan@gmail.com)
 
-I’m passionate about **Software Architecture, Cloud-Native Applications, AI Engineering, System Design, and Engineering Leadership**.
+> Architect with purpose. Engineer with excellence. Lead with vision. Deliver business value.
 
-My GitHub is a practical portfolio of how I **design, build, document, and continuously improve enterprise technology solutions**.
+## Professional Overview
 
----
+Technology and engineering professional with **17+ years of experience** across software development, technical leadership, solution design, application modernization and technology delivery. My approach connects business objectives, architectural decisions, engineering execution and people development to build secure, scalable and maintainable solutions.
 
-## 🚀 About Me
+My portfolio explores enterprise architecture, cloud platforms, responsible AI, engineering operating models and technology strategy through reference implementations, case studies and decision records.
 
-I started my career as a software developer and have progressively taken on responsibilities across:
+## Experience & Leadership Highlights
 
-* Software Development
-* Technical Leadership
-* Application Architecture
-* Team Collaboration & Mentoring
-* Stakeholder Engagement
-* Solution Design
-* Cloud Technologies
-* AI-assisted Software Engineering
+| Experience | Scope |
+|---|---|
+| Software engineering and technology delivery | 17+ years |
+| Engineering team leadership | 10 team members |
+| Concurrent project management | 5 projects |
+| Application modernization | 2 applications |
+| Release management | Weekly release cadence |
 
-Today, my focus is on strengthening my capabilities as a **Solution Architect and Engineering Leader**, with a long-term vision toward technology leadership.
+- Led end-to-end delivery of Policy Decisions capabilities with a global engineering team, using architecture decision records and cross-functional collaboration.
+- Managed engineering delivery, resource allocation, mentoring, hiring and performance appraisals.
+- Contributed to application modernization, API design, database optimization and production support.
+- Used AI-assisted engineering tools including GitHub Copilot, Cursor and Claude to support development workflows.
 
-> **My goal is simple: build technology that solves real business problems, scales with the organization, and creates measurable impact.**
+## Enterprise Architecture & Technology Leadership
 
----
+| Domain | Portfolio focus |
+|---|---|
+| Business architecture | Capability mapping, business outcomes, value streams |
+| Application architecture | Modernization, modularity, integration, distributed systems |
+| Data architecture | Data modeling, governance, quality and lifecycle |
+| Technology architecture | Cloud platforms, interoperability, resilience |
+| Architecture governance | ADRs, standards, principles, risk and compliance |
+| Technology strategy | Current and target states, transition roadmaps, investment priorities |
+| Engineering leadership | Team development, delivery governance, engineering excellence |
+| Commercial acumen | FinOps, total cost of ownership, ROI and build-versus-buy analysis |
 
-## 🏗️ Architecture & Technology Focus
+Enterprise-wide governance, commercial modeling and executive strategy are areas of ongoing development and portfolio exploration.
 
-### 🧩 Software Architecture
+## Featured Portfolio Roadmap
 
-* Solution Architecture
-* Enterprise Application Architecture
-* Microservices
-* RESTful APIs
-* Distributed Systems
-* System Design
-* Design Patterns
-* SOLID Principles
-* Clean Architecture
-* Clean Code
-* Scalability & Performance
-* Security & Authentication
-* API Design
-* Integration Architecture
+The following are proposed portfolio initiatives, not claims of completed implementations. Repository links and release status will be added as work is published.
 
-### 💻 Backend Engineering
+| Initiative | Demonstrates | Status |
+|---|---|---|
+| `enterprise-architecture-blueprint` | Capability maps, baseline and target architecture, governance | Planned |
+| `enterprise-ai-copilot-platform` | RAG, AI security, evaluation and human oversight | Planned |
+| `enterprise-cloud-platform` | Azure/AWS architecture, reliability and DevSecOps | Planned |
+| `engineering-leadership-handbook` | Team development, delivery and engineering metrics | Planned |
+| `technology-strategy-playbook` | Roadmaps, investment decisions and risk | Planned |
+| `digital-transformation-blueprint` | Modernization strategy, operating model and value realization | Planned |
 
-* C#
-* .NET
-* ASP.NET Core
-* Web API
-* Entity Framework
-* ADO.NET
-* WCF
-* Web Services
+### Architecture Case Study Standard
 
-### 🎨 Frontend
+Business context → Capability mapping → Requirements → Architecture options → Decisions and trade-offs → Implementation → Security and reliability → Cost analysis → Delivery roadmap → Outcome evaluation
 
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-* jQuery
+## Cloud, Platform & Software Engineering
 
-### ☁️ Cloud
+**Core technical foundation:** C#, .NET, ASP.NET, Web API, Entity Framework, SQL Server, JavaScript, React, REST APIs, Git and Azure DevOps.
 
-**Microsoft Azure**
+**Architecture and cloud focus:** ASP.NET Core, microservices, clean architecture, event-driven systems, Azure, AWS, API management, identity, CI/CD and observability.
 
-* Azure App Service
-* Azure Functions
-* Azure SQL
-* Azure Storage
-* Azure API Management
-* Azure Cosmos DB
-* Azure OpenAI
+**Developing capabilities:** Kubernetes, Terraform, platform engineering, multi-cloud governance, disaster recovery and FinOps.
 
-**AWS**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-* EC2
-* S3
-* VPC
-* IAM
-* EMR
+## Enterprise AI & Innovation
 
-### 🗄️ Databases
+My AI engineering interests include enterprise copilots, retrieval-augmented generation, agentic workflows, LLM integration and AI-assisted software engineering. I am developing practical approaches to AI evaluation, data privacy, prompt-injection defense, human oversight, cost control and responsible AI governance.
 
-* SQL Server
-* MySQL
-* Azure SQL
-* Relational Database Design
-* Data Modeling
-* Query Optimization
+## Engineering Leadership & Excellence
 
-### ⚙️ DevOps & Engineering Practices
+I believe engineering leadership combines technical judgment with clarity, accountability, trust and continuous improvement. My portfolio covers team development, stakeholder alignment, Agile delivery, architecture reviews, technical debt, engineering metrics and operational reliability.
 
-* Git
-* GitHub
-* Azure DevOps
-* Docker
-* CI/CD
-* Agile
-* Scrum
-* Code Review
-* Automated Testing
+## Technology Strategy & Business Value
 
----
+I explore how technology leaders translate business strategy into architecture roadmaps, prioritize investments, evaluate build-versus-buy decisions, manage risk and measure outcomes. Financial models and executive dashboards in this portfolio will use explicitly labeled illustrative assumptions unless supported by real evidence.
 
-# 🤖 AI & Modern Engineering
+## Architecture Principles
 
-I’m particularly interested in how AI can transform software engineering and enterprise applications.
+- Business outcomes before technology choices.
+- Simplicity before unnecessary complexity.
+- Security, privacy and reliability by design.
+- Explicit trade-offs and documented decisions.
+- Evolutionary architecture and measurable improvement.
+- Responsible AI with appropriate human accountability.
+- Engineering excellence through people, processes and automation.
 
-### Areas I'm exploring
+## Education & Continuous Development
 
-* Generative AI
-* AI-assisted Software Development
-* Retrieval-Augmented Generation (RAG)
-* Intelligent Search
-* AI Agents
-* Workflow Automation
-* AI-powered Enterprise Applications
-* LLM Integration
-* Azure OpenAI
-* AI Developer Productivity
-* AI for Engineering Leadership
+- Executive PG Program in Data Science — IIIT Bangalore
+- Master of Computer Applications — IGNOU
+- Bachelor of Science in Chemistry — VKSU
 
-### AI Engineering Philosophy
+Current development priorities: enterprise architecture, advanced system design, cloud and AI architecture, technology governance, engineering strategy, financial acumen and PMP preparation.
 
-> **AI should not replace engineering thinking.
-> It should amplify engineering capability.**
+## GitHub Activity
 
-I’m interested not only in using AI tools, but also in understanding how to **architect reliable, secure, scalable and business-oriented AI solutions**.
+[Explore my repositories](https://github.com/KrishnaZone2GitHub?tab=repositories)
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=KrishnaZone2GitHub&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaZone2GitHub&layout=compact&hide_border=true)
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/krisanmohan/)
+- [Professional website](https://krishnamohan.net)
+- [Email](mailto:career.kmohan@gmail.com)
+- [GitHub](https://github.com/KrishnaZone2GitHub)
+
+Open to conversations about enterprise architecture, solution architecture, engineering leadership, cloud, AI and technology transformation.
 
 ---
 
-# 📐 Architecture Portfolio
-
-This GitHub profile will progressively contain practical architecture case studies such as:
-
-| Project                                 | Focus                           |
-| --------------------------------------- | ------------------------------- |
-| 🏢 Enterprise Management Platform       | Enterprise Architecture         |
-| 🔗 Microservices Reference Architecture | Distributed Systems             |
-| 🌐 API Gateway Platform                 | API Architecture                |
-| 🔐 Identity & Access Platform           | Authentication & Authorization  |
-| 🤖 AI Enterprise Search                 | RAG + LLM                       |
-| 🧠 AI Engineering Assistant             | Generative AI                   |
-| 📦 E-Commerce Platform                  | Scalable Architecture           |
-| 🔔 Event-Driven Platform                | Messaging & Distributed Systems |
-| ⚡ High-Performance API                  | Performance & Caching           |
-| ☁️ Cloud-Native .NET Platform           | Azure Architecture              |
-
-Each significant project will aim to include:
-
-**Business Problem → Requirements → Architecture → Technology Decisions → Design → Implementation → Security → Scalability → Observability → Deployment → Lessons Learned**
-
----
-
-# 🔭 What I'm Building
-
-My current GitHub journey focuses on creating **realistic enterprise-grade projects rather than isolated coding exercises**.
-
-### Current themes
-
-```text
-Software Architecture
-        ↓
-Cloud Architecture
-        ↓
-Distributed Systems
-        ↓
-AI Engineering
-        ↓
-Engineering Leadership
-        ↓
-Business Impact
-```
-
-The objective is to demonstrate not just **"Can I code?"**, but:
-
-> **"Can I understand the problem, design the solution, make technology decisions, build it, operate it, and explain why those decisions make sense?"**
-
----
-
-# 📚 Continuous Learning
-
-I'm continuously strengthening my knowledge in:
-
-* Advanced .NET
-* Cloud Architecture
-* Azure
-* AWS
-* System Design
-* Distributed Systems
-* AI Engineering
-* Generative AI
-* Software Architecture
-* Engineering Management
-* Technical Leadership
-* Communication & Stakeholder Management
-
-I believe learning should produce **working knowledge**, not just certificates.
-
----
-
-# 🧠 My Engineering Principles
-
-### 01 — Business First
-
-Technology exists to solve business problems.
-
-### 02 — Simplicity
-
-Prefer the simplest architecture that satisfies the real requirements.
-
-### 03 — Security by Design
-
-Security should be considered from the beginning—not added at the end.
-
-### 04 — Scalability with Purpose
-
-Don't over-engineer. Design for the scale the business actually needs.
-
-### 05 — Observability
-
-If we cannot understand what the system is doing, we cannot operate it effectively.
-
-### 06 — Automation
-
-Automate repetitive work so engineers can focus on higher-value problems.
-
-### 07 — Continuous Improvement
-
-Architecture, engineering practices and leadership should continuously evolve.
-
----
-
-# 👥 Leadership
-
-Technology is ultimately built by people.
-
-I'm interested in developing stronger capabilities in:
-
-* Technical Leadership
-* Engineering Team Leadership
-* Mentoring
-* Delegation
-* Stakeholder Communication
-* Conflict Resolution
-* Technical Decision Making
-* Engineering Culture
-* Delivery Management
-* Building High-Performance Teams
-
-My leadership philosophy:
-
-> **Give people clarity, capability, ownership and trust—and create an environment where they can do their best work.**
-
----
-
-# 📊 GitHub Activity
- 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaZone2GitHub\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaZone2GitHub\&layout=compact\&hide_border=true)
-
----
-
-# 🛠️ Technology Stack
-
-```text
-Languages
-C# • JavaScript • SQL
-
-Backend
-.NET • ASP.NET Core • Web API • Entity Framework
-
-Frontend
-React • HTML • CSS • Bootstrap
-
-Architecture
-Microservices • REST • SOLID • Design Patterns
-Clean Architecture • System Design
-
-Cloud
-Azure • AWS
-
-AI
-Generative AI • RAG • LLMs • AI Agents
-Azure OpenAI • AI-assisted Development
-
-DevOps
-Git • GitHub • Azure DevOps • Docker • CI/CD
-
-Databases
-SQL Server • MySQL • Azure SQL • Cosmos DB
-```
-
----
-
-# 🌍 My Professional Direction
-
-```text
-Software Engineer
-       ↓
-Technical Lead
-       ↓
-Solution Architect
-       ↓
-Engineering Manager / Architect Manager
-       ↓
-Technology Leadership
-       ↓
-Director / CTO
-```
-
-The journey is not about a title.
-
-It is about continuously increasing:
-
-**Technical Depth + Business Understanding + Leadership + Impact**
-
----
-
-# 📌 Featured Work
-
-⭐ **Architecture Case Studies**
-Practical enterprise architecture decisions and trade-offs.
-
-⭐ **Cloud-Native .NET Applications**
-Production-oriented application architecture using modern .NET and cloud services.
-
-⭐ **AI-Powered Applications**
-Experiments and implementations using Generative AI and enterprise AI patterns.
-
-⭐ **System Design**
-End-to-end system design exercises covering scalability, reliability, security and performance.
-
-⭐ **Engineering Leadership**
-Practical approaches to engineering processes, mentoring, delivery and team effectiveness.
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with people working on:
-
-**Software Architecture • Cloud • AI • .NET • Engineering Leadership • Digital Transformation**
-
-### 🌐 Website
-
-**https://krishnamohan.net**
-
-### 💼 LinkedIn
-
-**https://www.linkedin.com/in/krisanmohan/**
-
-### 📧 Email
-
-**hello@krishnamohan.net**
-
----
-
-## ⭐ Thanks for visiting!
-
-If you find something useful in my repositories, feel free to ⭐ the project or start a discussion.
-
-I'm learning, building and sharing continuously.
-
-> **Build. Learn. Lead. Create Impact.**
-
----
-
-*This profile represents my ongoing journey in software engineering, architecture, AI and technology leadership.*
+**Technology • Architecture • People • Strategy • Business Value**
