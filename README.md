@@ -111,7 +111,7 @@ Current development priorities: enterprise architecture, advanced system design,
 
 - [LinkedIn](https://www.linkedin.com/in/krisanmohan/)
 - [Professional website](https://krishnamohan.net)
-- [Email](mailto:career.kmohan@gmail.com)
+- [Email](mailto:hello@krishnamohan.net)
 - [GitHub](https://github.com/KrishnaZone2GitHub)
 
 Open to conversations about enterprise architecture, solution architecture, engineering leadership, cloud, AI and technology transformation.
